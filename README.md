@@ -1,2 +1,2 @@
 # Keytale
-A Kingdom Hearts mod for Hytale coming soon.
+A Kingdom Hearts inspired mod for Hytale coming soon.
