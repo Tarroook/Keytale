@@ -1,0 +1,25 @@
+{
+    "Group": "KeyTeam",
+    "Name": "KeyTale",
+    "Version": "0.0.1",
+    "Description": "A core mod that adds mechanics inspired by Kingdom Hearts in Hytale.",
+    "Authors": [
+        {
+            "Name": "Tarook"
+        },
+        {
+            "Name": "AddUrselvesHere"
+        }
+    ],
+    "Website": "",
+    "ServerVersion": "*",
+    "Dependencies": {
+        
+    },
+    "OptionalDependencies": {
+        
+    },
+    "DisabledByDefault": false,
+    "Main": "org.example.plugin.ExamplePlugin",
+    "IncludesAssetPack": true
+}
