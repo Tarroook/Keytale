@@ -20,6 +20,6 @@
         
     },
     "DisabledByDefault": false,
-    "Main": "org.example.plugin.ExamplePlugin",
+    "Main": "org.keyteam.keytale.KeytalePlugin",
     "IncludesAssetPack": true
 }
